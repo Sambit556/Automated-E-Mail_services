@@ -1,0 +1,15 @@
+{
+  "name": "mailsender",
+  "version": "1.0.0",
+  "description": "sending mail services by bullMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bullmq": "^5.10.3",
+    "nodemailer": "^6.9.14"
+  }
+}
